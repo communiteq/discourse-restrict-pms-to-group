@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    discourse_restrict_pms_to_group_enabled: "Enable Restrict PMs to Group Plugin."
+    discourse_restrict_pms_restricted_groups: "Members of this groups can only receive PMs from members of the privileged groups."
+    discourse_restrict_pms_privileged_groups: "Allow members of these groups to send PMs to members of the restricted groups."

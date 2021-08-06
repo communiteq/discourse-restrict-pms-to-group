@@ -1,0 +1,12 @@
+plugins:
+  discourse_restrict_pms_to_group_enabled:
+    client: false
+    default: false
+  discourse_restrict_pms_restricted_groups:
+    client: false
+    default: ""
+    type: group_list
+  discourse_restrict_pms_privileged_groups:
+    client: false
+    default: ""
+    type: group_list
